@@ -1,0 +1,12 @@
+{
+  "name": "nft-world-city-server",
+  "version": "0.1.0",
+  "description": "NFT World City Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
